@@ -7,7 +7,7 @@
 <p align="left"> 
   <samp>&gt; and I am attempting to be a full stack dev.</samp>
 </p>
-
+<br>
 <p align="left">
     <samp>&gt;'Skills'(desc)</samp>
 </p>
@@ -72,7 +72,19 @@
 ![Radix](https://img.shields.io/badge/Radix-052CC0.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIGZpbGw9IiMwNTJDQzAiLz48ZyBmaWx0ZXI9InVybCgjZmlsdGVyMF9kXzk2MV85MCkiPjxwYXRoIGQ9Ik0xNzAuOTEyIDMwNi42MTNDMTY2Ljc2MiAzMDYuNjEzIDE2Mi44MTcgMzA0LjYzIDE2MC4zNDMgMzAxLjIxNkwxMDguNjg4IDIyOS42M0g3NVYyMDMuNTY3SDExNS4zNTJDMTE5LjU0MiAyMDMuNTY3IDEyMy40NjcgMjA1LjU3IDEyNS45MiAyMDguOTY0TDE2OC4xMzIgMjY3LjQ0N0wyMzIuNTQzIDEyMC4zMDlDMjM0LjYyOCAxMTUuNTY2IDIzOS4zMDkgMTEyLjUgMjQ0LjQ4MSAxMTIuNUgzMjVWMTM4LjU2M0gyNTMuMDA1TDE4Mi44NSAyOTguODA0QzE4MC45NjkgMzAzLjA5NyAxNzYuOTQyIDMwNi4wNCAxNzIuMjgxIDMwNi41MzFDMTcxLjg1MiAzMDYuNTkyIDE3MS4zODIgMzA2LjYxMyAxNzAuOTEyIDMwNi42MTNaIiBmaWxsPSIjMDBDMzg5Ii8%2BPC9nPjxkZWZzPjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZF85NjFfOTAiIHg9IjQzIiB5PSIxMTIuNSIgd2lkdGg9IjMxNCIgaGVpZ2h0PSIyNTguMTEzIiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI%2BPGZlRmxvb2QgZmxvb2Qtb3BhY2l0eT0iMCIgcmVzdWx0PSJCYWNrZ3JvdW5kSW1hZ2VGaXgiLz48ZmVDb2xvck1hdHJpeCBpbj0iU291cmNlQWxwaGEiIHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAxMjcgMCIgcmVzdWx0PSJoYXJkQWxwaGEiLz48ZmVPZmZzZXQgZHk9IjMyIi8%2BPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTYiLz48ZmVDb21wb3NpdGUgaW4yPSJoYXJkQWxwaGEiIG9wZXJhdG9yPSJvdXQiLz48ZmVDb2xvck1hdHJpeCB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMC4yNSAwIi8%2BPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbjI9IkJhY2tncm91bmRJbWFnZUZpeCIgcmVzdWx0PSJlZmZlY3QxX2Ryb3BTaGFkb3dfOTYxXzkwIi8%2BPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QxX2Ryb3BTaGFkb3dfOTYxXzkwIiByZXN1bHQ9InNoYXBlIi8%2BPC9maWx0ZXI%2BPC9kZWZzPjwvc3ZnPg%3D%3D)
 ![Hedera](https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=Hedera&logoColor=white)
 
-<br/>
+<br>
+        <p align="left">
+            <samp>&gt; theGOOD&THEbad</samp>
+        </p>
+        <p align="left"> 
+                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ makes a good project concept and plan</samp><br>
+                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- scraps it 15 times before finishing</samp><br>
+                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ nit-picks the final product until it's perfect</samp><br>
+                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects it 5 min after completion </samp><br>
+        </p>
+        <br>
+<br>
+
 <p align="left">
   <sup><sup>&gt;&gt;&gt;   </sup>  </sup> <a href="https://github.com/kapa28?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/My%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a><sup> <sup> &lt;&lt;&lt;   </sup>  </sup>
 </p>
