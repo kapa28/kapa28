@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="left">
-    <samp>&gt;'Skills'(desc)</samp>
+    <samp>&gt; Coding 'skills'(desc)</samp>
 </p>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,20 +19,23 @@
 <img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-009900.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 <img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-<img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="left">
-    <samp>&gt;OSs-es-s</samp>
+    <samp>&gt; OSs-es-s</samp>
 </p>
 
 ![Artix](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)<img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
@@ -41,7 +44,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <p align="left">
-    <samp>&gt;Tools</samp>
+    <samp>&gt; Tools</samp>
 </p>
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF7139?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
@@ -51,18 +54,11 @@
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <img width="28px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img>
 ![FCC](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-
-
-<p align="left">
-    <samp>&gt;Status</samp>
-</p>
-
-![Maintained](https://img.shields.io/badge/nYESsnt-1abc9c?style=for-the-badge&label=MAINTAINED) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=FFC0CB)
+![FF](https://img.shields.io/badge/firefox-002147?style=for-the-badge&logo=firefox&logoColor=0095DD)
 
 <p align="left">
-    <samp>&gt;$$$</samp>
+    <samp>&gt; $$$</samp>
 </p>
 
 ![XMR](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
@@ -73,20 +69,29 @@
 ![Hedera](https://img.shields.io/badge/Hedera-000000?style=for-the-badge&logo=Hedera&logoColor=white)
 
 <br>
-        <p align="left">
-            <samp>&gt; theGOOD&THEbad</samp>
-        </p>
-        <p align="left"> 
-                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ makes a good project concept and plan</samp><br>
-                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- scraps it 15 times before finishing</samp><br>
-                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ nit-picks the final product until it's perfect</samp><br>
-                <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects it 5 min after completion </samp><br>
-        </p>
-        <br>
+<p align="left">
+        <samp>&gt; Extra info</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ proficient in graphic design</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ good with computer hardware, diagnostics and troubleshooting</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ formal IT education</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ some ML</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ understanding of server/hosting architecture</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ knowlidge of good buisness practices</samp><br>
+</p>
 <br>
 
 <p align="left">
-  <sup><sup>&gt;&gt;&gt;   </sup>  </sup> <a href="https://github.com/kapa28?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/My%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a><sup> <sup> &lt;&lt;&lt;   </sup>  </sup>
+        <samp>&gt; theGOOD&THEbad</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ good at making concepts and dev plans</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- prone to getting stuck mid cycle</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ nit-picks the final product until it's perfect</samp><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects old projects >:] </samp><br><br>
+        <sup>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <sup> &gt;&gt;&gt; </sup> </sup> 
+        <a href="https://github.com/kapa28?tab=repositories" target="_blank">
+                <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/My%20Repos-1abc9c?style=for-the-badge&logo=koding&logoColor=white"/>
+        </a>
+        <sup> <sup> &lt;&lt;&lt; </sup> </sup>
+        <!-- <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/nYESsnt-1abc9c?style=for-the-badge&label=MAINTAINED"/> -->
 </p>
 
 <br/>
