@@ -5,7 +5,9 @@
         </samp>
 </h3>
 <p align="left"> 
-  <samp>&gt; and I am attempting to be a full stack dev.</samp>
+        <samp>&gt; and I am attempting to be a full stack dev. 
+        <!-- If you'd like<br>&ensp; we can get in touch:</samp>` <img width="15px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img> `-->
+
 </p>
 <br>
 <p align="left">
