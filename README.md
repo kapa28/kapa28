@@ -7,8 +7,8 @@
 <p align="left"> 
         <samp>&gt; and I am attempting to be a full stack dev. 
         <!-- If you'd like<br>&ensp; we can get in touch:</samp>` <img width="15px" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif"></img> `-->
-
 </p>
+
 <br>
 <p align="left">
     <samp>&gt; Coding 'skills'(desc)</samp>
@@ -96,8 +96,7 @@
         </a>
         <sup> <sup> &lt;&lt;&lt; </sup> </sup>
         <!-- <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/nYESsnt-1abc9c?style=for-the-badge&label=MAINTAINED"/> -->
-
-
+</p>
 <br/>
 
 <p align="left">
@@ -106,7 +105,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
 <a> 
   <a href="https://github.com/kapa28"><img alt="kapa28's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kapa28&show_icons=true&count_private=true&theme=transparent" height="192px" width="49%"/></a>
   <a href="https://github.com/kapa28"><img alt="kapa28's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kapa28&langs_count=8&layout=compact&theme=transparent" height="192px" width="49%"/></a>
