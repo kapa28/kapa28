@@ -86,7 +86,7 @@
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ good at making concepts and dev plans</samp><br>
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- prone to getting stuck mid cycle</samp><br>
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ nit-picks the final product until it's perfect</samp><br>
-        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects old projects >:] </samp><br><br>
+        <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects old projects >:] </samp><br>
 </p>
 <p align="center">
         <sup> <sup> &gt;&gt;&gt; </sup> </sup> 
