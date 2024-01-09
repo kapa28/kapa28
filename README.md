@@ -88,13 +88,15 @@
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- prone to getting stuck mid cycle</samp><br>
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ nit-picks the final product until it's perfect</samp><br>
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- neglects old projects >:] </samp><br><br>
-        <sup>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; <sup> &gt;&gt;&gt; </sup> </sup> 
+</p>
+<p align="center">
+        <sup> <sup> &gt;&gt;&gt; </sup> </sup> 
         <a href="https://github.com/kapa28?tab=repositories" target="_blank">
-                <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/My%20Repos-1abc9c?style=for-the-badge&logo=koding&logoColor=white"/>
+                <img alt="My Repositories" title="All Repositories" src="https://img.shields.io/badge/My%20Repos-1abc9c?style=for-the-badge&logo=koding&logoColor=white"/>
         </a>
         <sup> <sup> &lt;&lt;&lt; </sup> </sup>
         <!-- <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/nYESsnt-1abc9c?style=for-the-badge&label=MAINTAINED"/> -->
-</p>
+
 
 <br/>
 
