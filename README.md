@@ -110,4 +110,3 @@
   <a href="https://github.com/kapa28"><img alt="kapa28's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kapa28&show_icons=true&count_private=true&theme=transparent" height="192px" width="49.5%"/></a>
   <a href="https://github.com/kapa28"><img alt="kapa28's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kapa28&langs_count=8&layout=compact&theme=transparent" height="192px" width="49.5%"/></a>
 </a>
-</p>
