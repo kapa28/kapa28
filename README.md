@@ -80,7 +80,6 @@
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ understanding of server/hosting architecture</samp><br>
         <samp>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;+ knowlidge of good buisness practices</samp><br>
 </p>
-<br>
 
 <p align="left">
         <samp>&gt; theGOOD&THEbad</samp><br>
